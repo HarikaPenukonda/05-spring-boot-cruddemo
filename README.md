@@ -1,1 +1,1 @@
-# 05-spring-boot-cruddemo
+# 06-spring-boot-cruddemo
